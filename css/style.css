@@ -1,1 +1,12 @@
+body{
+    text-align:center;
+    font-family:sans-serif;
+    margin-top:80px;
+}
 
+.answer-grid{
+    display: grid;
+    grid-template-columns: repeat(2,250px);
+    justify-content:center;
+    gap:15px;
+}
