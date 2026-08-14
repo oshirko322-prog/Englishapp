@@ -16,13 +16,23 @@ body{
 /*スマホ*/
 @media(max-width:600px){
     body{
-        padding: 20px 10px;
+        padding:20px 10px;
     }
+
     .answer-grid{
+        display: flex;
+        flex-direction: column;
         grid-template-columns: 1fr;
         gap:15px;
         width:100%;
         max-width:500px;
         margin:0 auto;
+    }
+
+    .answer-btn{
+        width:90%;
+        max-width:500px;
+        min-height:65px;
+        font-size:20px;
     }
 }
