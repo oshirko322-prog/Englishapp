@@ -34,5 +34,7 @@ body{
         max-width:500px;
         min-height:65px;
         font-size:20px;
+        margin-left:auto;
+        margin-right:auto;
     }
 }
