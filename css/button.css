@@ -2,9 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    max-width:250px;
-    margin:0;
+    width: 90%;
+    max-width:500px;
+    margin:0 auto;
     padding: .9em 2em;
     border: none;
     border-radius: 25px;
