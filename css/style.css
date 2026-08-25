@@ -23,6 +23,7 @@ body{
         display: flex;
         flex-direction: column;
         grid-template-columns: 1fr;
+        align-item: center;
         gap:15px;
         width:100%;
         max-width:500px;
